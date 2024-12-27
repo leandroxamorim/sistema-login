@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\Documents\\Curso_CSharp\\sistema-login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D7B58C-0973-4E2A-9A5F-95723A0DE4A2}|sistema-login.csproj|c:\\users\\administrador\\documents\\curso_csharp\\sistema-login\\formlogincs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5D7B58C-0973-4E2A-9A5F-95723A0DE4A2}|sistema-login.csproj|solutionrelative:formlogincs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D7B58C-0973-4E2A-9A5F-95723A0DE4A2}|sistema-login.csproj|C:\\Users\\Administrador\\Documents\\Curso_CSharp\\sistema-login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D7B58C-0973-4E2A-9A5F-95723A0DE4A2}|sistema-login.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D7B58C-0973-4E2A-9A5F-95723A0DE4A2}|sistema-login.csproj|C:\\Users\\Administrador\\Documents\\Curso_CSharp\\sistema-login\\formlogincs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D7B58C-0973-4E2A-9A5F-95723A0DE4A2}|sistema-login.csproj|solutionrelative:formlogincs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D7B58C-0973-4E2A-9A5F-95723A0DE4A2}|sistema-login.csproj|c:\\users\\administrador\\documents\\curso_csharp\\sistema-login\\cadastrousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D7B58C-0973-4E2A-9A5F-95723A0DE4A2}|sistema-login.csproj|solutionrelative:cadastrousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D7B58C-0973-4E2A-9A5F-95723A0DE4A2}|sistema-login.csproj|c:\\users\\administrador\\documents\\curso_csharp\\sistema-login\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D7B58C-0973-4E2A-9A5F-95723A0DE4A2}|sistema-login.csproj|solutionrelative:usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D7B58C-0973-4E2A-9A5F-95723A0DE4A2}|sistema-login.csproj|C:\\Users\\Administrador\\Documents\\Curso_CSharp\\sistema-login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5D7B58C-0973-4E2A-9A5F-95723A0DE4A2}|sistema-login.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CadastroUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Curso_CSharp\\sistema-login\\CadastroUsuarios.cs",
+              "RelativeDocumentMoniker": "CadastroUsuarios.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\Curso_CSharp\\sistema-login\\CadastroUsuarios.cs",
+              "RelativeToolTip": "CadastroUsuarios.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T22:38:21.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Curso_CSharp\\sistema-login\\Usuario.cs",
+              "RelativeDocumentMoniker": "Usuario.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\Curso_CSharp\\sistema-login\\Usuario.cs",
+              "RelativeToolTip": "Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T22:37:23.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormLogincs.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Curso_CSharp\\sistema-login\\FormLogincs.cs",
+              "RelativeDocumentMoniker": "FormLogincs.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\Curso_CSharp\\sistema-login\\FormLogincs.cs",
+              "RelativeToolTip": "FormLogincs.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T01:07:36.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormLogincs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Curso_CSharp\\sistema-login\\FormLogincs.cs",
+              "RelativeDocumentMoniker": "FormLogincs.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\Curso_CSharp\\sistema-login\\FormLogincs.cs [Design]",
+              "RelativeToolTip": "FormLogincs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T01:04:12.623Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Curso_CSharp\\sistema-login\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\Curso_CSharp\\sistema-login\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T00:55:09.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\Curso_CSharp\\sistema-login\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\Curso_CSharp\\sistema-login\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T00:43:45.131Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\Administrador\Documents\Curso_CSharp\sistema-login\bin\Debug\sistema-login.exe.config
+C:\Users\Administrador\Documents\Curso_CSharp\sistema-login\bin\Debug\sistema-login.exe
+C:\Users\Administrador\Documents\Curso_CSharp\sistema-login\bin\Debug\sistema-login.pdb
+C:\Users\Administrador\Documents\Curso_CSharp\sistema-login\obj\Debug\sistema-login.csproj.AssemblyReference.cache
+C:\Users\Administrador\Documents\Curso_CSharp\sistema-login\obj\Debug\sistema_login.Form1.resources
+C:\Users\Administrador\Documents\Curso_CSharp\sistema-login\obj\Debug\sistema_login.Properties.Resources.resources
+C:\Users\Administrador\Documents\Curso_CSharp\sistema-login\obj\Debug\sistema-login.csproj.GenerateResource.cache
+C:\Users\Administrador\Documents\Curso_CSharp\sistema-login\obj\Debug\sistema-login.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Curso_CSharp\sistema-login\obj\Debug\sistema-login.exe
+C:\Users\Administrador\Documents\Curso_CSharp\sistema-login\obj\Debug\sistema-login.pdb
+C:\Users\Administrador\Documents\Curso_CSharp\sistema-login\obj\Debug\sistema_login.FormLogincs.resources
